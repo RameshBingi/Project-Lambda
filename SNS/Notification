@@ -1,1 +1,15 @@
+Triggering Lambda with  s3 event using SNS
+
+
+Lambda  triggering action trough SNS Nottification
+
+Services Used AWS Lambda , S3 , SNS 
+Step-1 Created lambda function from scratch
+Step -2 Created S3 bucket 
+Step-3 Given triggering action of S3 for Lambda 
+Step 4 Created SNS , done Subscription  (ARN  arn:aws:sns:ap-south-1:757905370750:my_triger )
+
+code was pasted in AWS lambda
+
+
 
